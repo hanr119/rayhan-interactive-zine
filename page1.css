@@ -34,6 +34,9 @@ img {
     margin-right: auto;
     width: 50%;
 }
+img:hover {
+    width: 53%;
+}
 
 .container {
     width: 80vw;
